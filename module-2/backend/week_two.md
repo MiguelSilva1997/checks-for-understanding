@@ -52,10 +52,11 @@ Now how would you find the owner of the team with an id of 4?
   | integer       | student_id      |
 
 6. Define foreign key, primary key, and schema.
-  Foreign key is the key that connects to database. In other words is the bridge that connect two tables in the database. Primary keys are the keys that belong to one table that are unique and helps identify a specific row of that table.
+  Foreign key is the key that connects two tables in a database. Primary keys are the keys that belong to one table that are unique and helps identify a specific row of that table. A schema is the blueprint of the instruction given by every migration made.
+  
 
 7. Describe the relationship between a foreign key on one table and a primary key on another table.
-  The foreign key in one table helps you identify the relationship between tables. The foreign key refers to the primary key of another table. Since the primary key is always unique it helps to point at a specific row.
+  The foreign key in one table helps you identify the relationship between tables. The foreign key refers to the primary key     of another table. Since the primary key is always unique it helps to point at a specific row.
 
 8. What are the parts of an HTTP response?
   Response code
